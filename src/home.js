@@ -9,7 +9,7 @@ function buildHome() {
     container.appendChild(myImage);
 
     const headline = document.createElement('p');
-    headline.style.cssText = 'font-size: 5rem; text-align: center; background-color: white; padding: 2vh 2vw';
+    headline.style.cssText = 'font-size: 3rem; text-align: center; background-color: white; padding: 2vh 2vw';
     
     const spanTop = document.createElement('h1');
     const spanBot = document.createElement('span');
